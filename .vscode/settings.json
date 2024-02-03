@@ -1,0 +1,13 @@
+{
+  "files.associations": {
+    "iostream": "cpp",
+    "numbers": "cpp",
+    "stack": "cpp",
+    "*.tcc": "cpp",
+    "deque": "cpp",
+    "list": "cpp",
+    "string": "cpp",
+    "vector": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
+}
